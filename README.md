@@ -17,7 +17,7 @@ This Power BI dashboard provides:
 ---
 
 ## 📸 Dashboard Preview  
-![Blinkit Dashboard](C:\Users\Dell\OneDrive\Attachments)  
+![Blinkit Dashboard](dashboard.png)  
 
 ---
 
@@ -44,7 +44,3 @@ This Power BI dashboard provides:
 
 ---
 
-## 📬 How to Use  
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/your-username/blinkit-powerbi-dashboard.git
