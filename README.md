@@ -17,7 +17,7 @@ This Power BI dashboard provides:
 ---
 
 ## 📸 Dashboard Preview  
-![Blinkit Dashboard](dashboard.png)  
+<a href ="https://github.com/Mansha0805/Blinkit-Sales-Analysis/blob/main/Blinkit_sales_analysis_Dashboard.pbix">View Dashboard</a>
 
 ---
 
