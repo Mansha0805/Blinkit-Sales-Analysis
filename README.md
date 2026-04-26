@@ -188,7 +188,7 @@ Blinkit-Sales-Analysis/
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/YourUsername/Blinkit-Sales-Analysis.git
+   git clone https://github.com/Mansha0805/blinkit-sales-analysis.git
    ```
 
 2. **Open the dashboard**
@@ -209,9 +209,9 @@ Blinkit-Sales-Analysis/
 ## 👤 Author
 
 **Your Name**
-- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 💻 [GitHub](https://github.com/YourUsername)
-- 📧 your.email@example.com
+- 🔗 [LinkedIn](https://linkedin.com/in/maymansha08)
+- 💻 [GitHub](https://github.com/Mansha0805)
+- 📧 manshakalra0808@gmail.com
 
 ---
 
